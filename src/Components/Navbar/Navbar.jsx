@@ -27,12 +27,12 @@ const Navbar = () => {
 
           <Link to={'/transactions'} 
             className={`py-2 px-4 border-2 
-            ${pathname == '/transactions' ? 'border-primary' : 'border-white text-dark'} border-bottom text-decoration-none`}>Transactions</Link>
+            ${pathname == '/transactions' ? 'border-primary' : 'border-white text-dark'} border-bottom text-decoration-none`}>Transaksi</Link>
 
           <Link to={'/list-transactions'} 
             className={`py-2 px-4 border-2 
             ${pathname == '/list-transactions' ? 'border-primary' : 'border-white text-dark'}
-             border-bottom text-decoration-none`}>List Transactions</Link>
+             border-bottom text-decoration-none`}>List Transaksi</Link>
         </Container>
       </NavbarBootstrap>
     </>

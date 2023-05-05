@@ -54,7 +54,7 @@ const CheckoutModal = ({ idModal }) => {
 
   useEffect(() => {
 
-    if(isLoadingCreateFoodCart && loading) {
+    if(isLoadingCreateTransaction && loading) {
       showLoading('Tunggu sebentar transaksi sedang diperoses!')
     }
 

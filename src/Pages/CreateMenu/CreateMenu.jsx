@@ -18,7 +18,7 @@ const CreateMenu = () => {
 
   const [data, setData] = useState({
     food_name : "",
-    price: 0,
+    price: "",
     photo : ""  
   })
 
@@ -83,7 +83,7 @@ const CreateMenu = () => {
       setData({
         food_name: "",
         photo: "",
-        price: 0
+        price: ""
       })
 
       setPreview(undefined)
