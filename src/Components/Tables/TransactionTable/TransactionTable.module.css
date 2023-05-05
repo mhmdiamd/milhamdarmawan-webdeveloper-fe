@@ -1,0 +1,12 @@
+.bgGrey {
+  background-color:#F0F0F0;
+}
+
+.imgSize {
+  max-height: 65px;
+  width: 90px;
+}
+
+.colHeight {
+  height: 100% !important;
+}

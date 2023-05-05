@@ -1,0 +1,17 @@
+.bgLight {
+  background-color: #F8F8F8;
+}
+
+.textFooter {
+  font-size: .9em;
+  color: #808080fb;
+}
+
+.footerPosition {
+  position: absolute;
+  bottom: 0;
+}
+
+.height {
+  min-height: 100vh;
+}

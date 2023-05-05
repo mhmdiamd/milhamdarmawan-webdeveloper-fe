@@ -1,0 +1,32 @@
+.bg-main {
+  background-color: #00ACEE !important;
+}
+
+.color-main {
+  color: #00ACEE !important;
+}
+
+.border-main {
+  border-color: #00ACEE !important;
+}
+
+.bg-green {
+  background-color: #7caf84 !important;
+}
+
+.border-green {
+  border-color: #7caf84 !important;
+}
+
+.border-white {
+  border-color: #FFFFFF !important;
+}
+
+
+.bg-white {
+  background-color: #ffffff;
+}
+
+.pointer {
+  cursor: pointer;
+}

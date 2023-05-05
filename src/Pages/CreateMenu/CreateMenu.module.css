@@ -1,0 +1,12 @@
+.bgUpload {
+  background-color: #F2F2F2 !important;
+}
+
+.imgHeight {
+  height: 200px;
+}
+
+.sizePrevImg {
+  max-width: 200px;
+  max-height: 150px;
+}
