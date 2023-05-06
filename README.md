@@ -85,4 +85,4 @@ Contributions are what make the open source community such an amazing place to b
 
 :rocket: [`Demo`](https://ilham-alan-resto.vercel.app/)
 
-Project Link: [https://github.com/mhmdiamd/ui-tiket-app](https://github.com/mhmdiamd/milhamdarmawan-webdeveloper-fe)
+Project Link: [https://github.com/mhmdiamd/milhamdarmawan-webdeveloper-fe](https://github.com/mhmdiamd/milhamdarmawan-webdeveloper-fe)
